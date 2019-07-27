@@ -1,4 +1,4 @@
 # deneme
 denemetest
 
-Buraya genel bilgi yazılabilir.
+mekanik gereksinim tanımları.
